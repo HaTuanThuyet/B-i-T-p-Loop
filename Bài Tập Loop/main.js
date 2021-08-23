@@ -23,7 +23,7 @@ document.getElementById("btnketqua2").onclick = function chiachoba() {
             count++;
             // console.log(count);
         }
-        document.getElementById("txtthunhap2").innerHTML = " Số Chia Hết Cho Ba Nhỏ Hơn 100 là :  " + count + " Số";
+        document.getElementById("txtthunhap2").innerHTML = " Số Chia Hết Cho Ba Nhỏ Hơn 1000 là :  " + count + " Số";
     }
 
 
