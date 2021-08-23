@@ -140,7 +140,7 @@ function print_snt() {
             content4 += i + ' <br/>';
         }
     }
-    document.getElementById("result").innerHTML = content4;
+    document.getElementById("txtt").innerHTML = content4;
 }
 
 
